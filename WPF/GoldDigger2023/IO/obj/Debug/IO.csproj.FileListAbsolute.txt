@@ -1,0 +1,13 @@
+C:\Users\idax572a\Downloads\GoldDigger2023\GoldDigger2023\GoldDigger2023\IO\obj\Debug\IO.csproj.AssemblyReference.cache
+C:\Users\idax572a\Downloads\GoldDigger2023\GoldDigger2023\GoldDigger2023\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\bin\Debug\IO.dll
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\bin\Debug\IO.pdb
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\bin\Debug\Repository.dll
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\bin\Debug\Repository.pdb
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\obj\Debug\IO.csproj.AssemblyReference.cache
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\obj\Debug\IO.csproj.CopyComplete
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\obj\Debug\IO.dll
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\obj\Debug\IO.pdb
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\bin\Debug\Newtonsoft.Json.dll
+C:\Codemappe\S3\Eksamen2023\WPF\GoldDigger2023\IO\bin\Debug\Newtonsoft.Json.xml

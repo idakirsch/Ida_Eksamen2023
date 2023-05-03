@@ -1,0 +1,22 @@
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\KodeMappe\S3\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.pdb
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\bin\Debug\ConsoleApp.exe
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\bin\Debug\ConsoleApp.pdb
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.exe
+\\10.205.44.18\SharedFiles\_Skrivbar mappe til sortering\Eksamen2023\Console\GoldDiggerConsole\ConsoleApp\obj\Debug\ConsoleApp.pdb

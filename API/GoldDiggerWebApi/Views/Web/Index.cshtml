@@ -1,0 +1,59 @@
+﻿@model IEnumerable<GoldDiggerWebApi.Models.ClassApiResponds>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="~/style.css" asp-append-version="true" />
+
+<h1>Gold Digger - Metal price</h1>
+
+<ul>
+    Kurser og priser er opdateret:
+</ul>
+<ul>
+    Date: 00-00-00 - Klokken: 00:00:00
+</ul>
+<ul>
+    USD: 0,00
+</ul>
+<ul>
+    EUR: 0,00
+</ul>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Price in DKK
+            </th>
+            <th>
+                Price in EUR
+            </th>
+            <th>
+                Price in USD
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) 
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.metalName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.priceDkkPerKg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.priceEurPerKg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.priceUsdPerKg)
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

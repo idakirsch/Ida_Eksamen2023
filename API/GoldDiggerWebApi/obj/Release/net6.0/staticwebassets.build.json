@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "M4xGqknDW4ahJFnWAurD7fqscvOAnl3KBXMO3FbhaGY=",
+  "Source": "GoldDiggerWebApi",
+  "BasePath": "_content/GoldDiggerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GoldDiggerWebApi\\wwwroot",
+      "Source": "GoldDiggerWebApi",
+      "ContentRoot": "C:\\Codemappe\\S3\\Eksamen2023\\API\\GoldDiggerWebApi\\wwwroot\\",
+      "BasePath": "_content/GoldDiggerWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Codemappe\\S3\\Eksamen2023\\API\\GoldDiggerWebApi\\wwwroot\\style.css",
+      "SourceId": "GoldDiggerWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Codemappe\\S3\\Eksamen2023\\API\\GoldDiggerWebApi\\wwwroot\\",
+      "BasePath": "_content/GoldDiggerWebApi",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
