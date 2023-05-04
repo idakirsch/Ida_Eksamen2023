@@ -47,8 +47,7 @@ namespace GUI
 
             GridLogin.Children.Add(UClogin);
             GridCustomer.Children.Add(UCcustomer);
-            GridOrder.Children.Add(UCinvoice);
-            
+            GridOrder.Children.Add(UCinvoice);            
             GridEmploye.Children.Add(UCdataRelatingToEmployees);
         }
     }
