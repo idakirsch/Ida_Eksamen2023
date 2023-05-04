@@ -535,6 +535,7 @@ namespace IO
         /// Gets the exchangerate and calculates the price of the metals 
         /// </summary>
         /// <returns>List of all the metals in diffrent Valutas</returns>
+        /// // i can´t explane
         public List<ClassApiResponds> MimicAPI()
         {
             // makes containers
