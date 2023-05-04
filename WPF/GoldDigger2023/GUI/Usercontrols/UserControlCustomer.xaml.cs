@@ -97,6 +97,11 @@ namespace GUI.Usercontrols
                     BIZ.customerIsEnabled = true;
                 } 
             }
+            else
+            {
+                // Message, Window title, Buttons available, Icon
+                MessageBox.Show("Du skal vælge en kunde før du kan redigere.", "Manglende valg", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
         }
     }
 }
