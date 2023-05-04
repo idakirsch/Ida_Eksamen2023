@@ -26,7 +26,7 @@
                     Grid.Row="0"
                     VerticalAlignment="Stretch"
                     Source="https://localhost:44370/"/>
-
+        
         <GroupBox x:Name="ContactInfoBox"
                   Header="Kontakt oplysninger"
                   Grid.Row="1"
